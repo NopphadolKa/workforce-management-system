@@ -82,3 +82,5 @@ npm install tailwindcss @tailwindcss/vite
     "lint": "eslint .",
     "preview": "vite preview"
   },
+
+  3. npm install zustand
