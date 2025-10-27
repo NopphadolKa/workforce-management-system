@@ -84,3 +84,5 @@ npm install tailwindcss @tailwindcss/vite
   },
 
   3. npm install zustand
+
+  4. npm install axios
