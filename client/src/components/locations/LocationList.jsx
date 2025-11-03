@@ -3,7 +3,7 @@ import useDutyStore from "../../store/useDutyStore";
 
 const LocationList = () => {
   const locations = useDutyStore((s) => s.locations);
-  console.log(locations);
+  // console.log(locations);
   return (
     <div className="w-80 bg-white border-l shadow-lg border-gray-200">
       <div className="p-6 border border-gray-200 bg-purple-100">
