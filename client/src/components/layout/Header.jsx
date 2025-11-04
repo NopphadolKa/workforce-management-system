@@ -1,7 +1,7 @@
 import { Plus, X } from "lucide-react";
 
 const Header = ({ adding, setAdding }) => {
-  console.log(adding);
+  // console.log(adding);
   return (
     <div
       className="
