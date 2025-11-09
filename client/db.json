@@ -51,6 +51,13 @@
       "lat": 13.762937265148677,
       "lng": 100.50640046596529,
       "maxCapacity": 5
+    },
+    {
+      "id": "86c5",
+      "name": "NopphadolKa",
+      "lat": 13.062088034413131,
+      "lng": 101.01722717285158,
+      "maxCapacity": 5
     }
   ],
   "locationPersonnel": [
